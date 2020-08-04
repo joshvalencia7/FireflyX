@@ -6,14 +6,14 @@ description: Designing Interactions for a Mobile Musical Learning Tool for Child
 ---
 
 ## About the Research
- Welcome to the website of our project DevOpsX. This site shall contain relevant information regarding its formative paper entitled "Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration" which was submitted and has been accepted (with shepherding) to the Asian CHI Sympossium 2020. 
+ Welcome to the website of our project FireflyX. This site shall contain relevant information regarding our project, protocol for teachers, and protocol for children.
  
 ## Research Motivation
-The project aims to investigate, understand and support Filipino Novice Programmers in enabling them to integrate DevOps in their practices as early as possible. 
-
+The project aims to identify behaviours that children exhibit when learning how to compose music using FireflyX.
 ## Legend and Navigation
-1. Protocol for Children- details about the project team members and their contact info. 
-1. Protocol for Expert- details about the project team members and their contact info. 
-1. Consent Forms - list of questions, formats used in the data collection during its formative study phase
-1. About - shows the collated (and visualized) results from the respondents. Participant info and other identifiers have been removed.
-1. Contact Us - shows the designs of the initial prototype
+1. About- details about the project, team members and their contact info. 
+1. Protocol for Children - details about the protocol for children. 
+1. Tasks - details about the tasks children have to do.
+1. Protocol for Teacher - details about the protocol for teachers.
+1. Conesnt Forms - shows the collated (and visualized) results from the respondents. Participant info and other identifiers have been removed.
+1. Installation Guide - shows the step-by-step process on how to install FireflyX.
