@@ -7,9 +7,9 @@ description: Designing Interactions for a Mobile Musical Learning Tool for Child
 ## The Research
 
 The goal of the study is to design and develop a mobile application that children can use to play with and learn music. It hopes to answer the following questions:
--What playful behaviors do children exhibit when composing music?
--What features can be designed to a mobile application tool that enable playful interactions when composing music?
--What behaviors do children exhibit when using a mobile application tool to compose music?
+- What playful behaviors do children exhibit when composing music?
+- What features can be designed to a mobile application tool that enable playful interactions when composing music?
+- What behaviors do children exhibit when using a mobile application tool to compose music?
 
 ## Team Members
 
