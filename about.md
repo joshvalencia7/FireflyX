@@ -13,11 +13,22 @@ The goal of the study is to design and develop a mobile application that childre
 
 ## Team Members
 
-**Paolo Ato, Mart Gamutan, Antoine Salcedo, Josh Valencia, Jordan Aiko Deja* **
+Paolo Miguel B. Ato
+[paolo_ato@dlsu.edu.ph](mailto:paolo_ato@dlsu.edu.ph) 
+
+Mart Henrick A. Gamutan
+[mart_gamutan@dlsu.edu.ph](mailto:mart_gamutan@dlsu.edu.ph) 
+
+Antoine Mikhael M. Salcedo
+[antoine_salcedo@dlsu.edu.ph](mailto:antoine_salcedo@dlsu.edu.ph)
+
+Josh Cezar L. Valencia
+[josh_cezar_valencia@dlsu.edu.ph](mailto:josh_cezar_valencia@dlsu.edu.ph)
+
+Jordan Aiko Deja
+[jordan.deja@dlsu.edu.ph](mailto:jordan.deja@dlsu.edu.ph)
 
 <sup>De La Salle University</sup>
-
-<sup>[paolo_ato@dlsu.edu.ph](mailto:paolo_ato@dlsu.edu.ph), [mart_gamutan@dlsu.edu.ph](mailto:mart_gamutan@dlsu.edu.ph), [antoine_salcedo@dlsu.edu.ph](mailto:antoine_salcedo@dlsu.edu.ph), [josh_cezar_valencia@dlsu.edu.ph](mailto:josh_cezar_valencia@dlsu.edu.ph), [jordan.deja@dlsu.edu.ph](mailto:jordan.deja@dlsu.edu.ph)</sup>
   
 <sup>*Jordan is also affiliated with the University of Primorska</sup>
 
