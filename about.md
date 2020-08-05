@@ -11,7 +11,7 @@ The goal of the study is to design and develop a mobile application that childre
 - What features can be designed to a mobile application tool that enable playful interactions when composing music?
 - What behaviors do children exhibit when using a mobile application tool to compose music?
 
-## Team Members
+# Team Members
 
 Paolo Miguel B. Ato
 [paolo_ato@dlsu.edu.ph](mailto:paolo_ato@dlsu.edu.ph) 
