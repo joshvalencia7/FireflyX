@@ -110,6 +110,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
+  background-image: url("assets/img/fireflylogo.png");
   // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
@@ -126,7 +127,6 @@ a {
 }
 
 .project-name {
-  background-image: url("assets/img/Component 4.png");
   margin-top: 0;
   margin-bottom: 0.1rem;
   color: #ffe66d;
