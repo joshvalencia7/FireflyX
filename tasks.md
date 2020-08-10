@@ -16,6 +16,7 @@ description: This page is a guide for the tasks
 #### Basic Rhythm Tips
 ![Basic Rhythm Tips](/assets/img/figure2.png)
 
+
 ## Task 3
 - Recreate part of Ssong with assistance (rhythms with pitch already)  For this task we will be giving the child this simple song called “Bells in the Snow” with repeating sections as seen in Figure 3, for this specific task same as Task # 2. This task will require the child to explore more features of the application due to pitch being added and more sections of the songs can be seen. We will let the child listen to the song during this task. We will also give the children a visual representation on top of the actual music sheet this time with the different pitch, a preview of this can be seen in figure 4. The rest of the visual representation and the song can be seen and accessed on the site.
 
