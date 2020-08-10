@@ -14,11 +14,11 @@ description: This page is a guide for the tasks
 ![Basic Rhythm Sheet](/assets/img/figure1.png) 
 
 #### Basic Rhythm Tips
-<img src="/assets/img/figure2.png" width="425"/> <img src="/assets/img/figure3.png" width="425"/> 
+<img src="/FireflyX/assets/img/figure2.png" width="425"/> <img src="/FireflyX/assets/img/figure3.png" width="425"/> 
 <!--![Basic Rhythm Tips](/assets/img/figure2.png) ![Basic Rhythm Tips2](/assets/img/figure3.png) -->
-<img src="/assets/img/figure4.png" width="425"/> <img src="/assets/img/figure5.png" width="425"/> 
+<img src="/FireflyX/assets/img/figure4.png" width="425"/> <img src="/FireflyX/assets/img/figure5.png" width="425"/> 
 <!--![Basic Rhythm Tips3](/assets/img/figure4.png) ![Basic Rhythm Tips4](/assets/img/figure5.png) -->
-<img src="/assets/img/figure6.png" width="425"/>
+<img src="/FireflyX/assets/img/figure6.png" width="425"/>
 <!--![Basic Rhythm Tips5](/assets/img/figure6.png) -->
 
 
