@@ -8,7 +8,7 @@ description: This page is a guide for the tasks
 - Explore the features of the application (make simple sounds like DoReMi)
 
 ## Task 2
-- Recreate part of song with visual assistance (Only rRhythms no pitch yet ) - For this task we will be giving the child this simple rhythm as seen in Figure 1, for this specific task there will be no pitch present and all beats will be set in C. We will let the child listen to the song during this task. We will also give the children a visual representation on top of the actual music sheet, a preview of this can be seen in figure 2. The rest of the visual representation and the song can be seen and accessed on the site.
+- Recreate part of song with visual assistance (Only rhythms no pitch yet ) - For this task we will be giving the child this simple rhythm as seen in Figure 1, for this specific task there will be no pitch present and all beats will be set in C. We will let the child listen to the song during this task. We will also give the children a visual representation on top of the actual music sheet, a preview of this can be seen in figure 2. The rest of the visual representation and the song can be seen and accessed on the site.
 
 #### Basic Rhythm Sheet
 ![Basic Rhythm Sheet](/assets/img/figure1.png) 
@@ -23,7 +23,7 @@ description: This page is a guide for the tasks
 
 
 ## Task 3
-- Recreate part of Ssong with assistance (rhythms with pitch already)  For this task we will be giving the child this simple song called “Bells in the Snow” with repeating sections as seen in Figure 3, for this specific task same as Task # 2. This task will require the child to explore more features of the application due to pitch being added and more sections of the songs can be seen. We will let the child listen to the song during this task. We will also give the children a visual representation on top of the actual music sheet this time with the different pitch, a preview of this can be seen in figure 4. The rest of the visual representation and the song can be seen and accessed on the site.
+- Recreate part of song with assistance (rhythms with pitch already).  For this task we will be giving the child this simple song called “Bells in the Snow” with repeating sections as seen in Figure 3, for this specific task same as Task # 2. This task will require the child to explore more features of the application due to pitch being added and more sections of the songs can be seen. We will let the child listen to the song during this task. We will also give the children a visual representation on top of the actual music sheet this time with the different pitch, a preview of this can be seen in Figure 4. The rest of the visual representation and the song can be seen and accessed on the site.
 
 #### Basic Pitch Sheet
 ![Basic Pitch Sheet](/assets/img/figure7.png)
