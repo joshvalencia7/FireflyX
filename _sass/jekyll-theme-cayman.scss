@@ -109,6 +109,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
+  text-color: #ffe66d;
   background-color: $header-bg-color;
   // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
@@ -211,7 +212,6 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    text-color: #ffe66d;
     color: $section-headings-color;
   }
 
