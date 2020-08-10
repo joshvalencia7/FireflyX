@@ -377,11 +377,3 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
-
-.site-title::before {
-	content: url("/assets/img/Component 4.png");
-	display: inline-block;
-	position: relative;
-	width: 37px;
-	top: 5px;
-}
