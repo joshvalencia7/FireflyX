@@ -19,8 +19,9 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure4.png" width="413"/> <img src="/FireflyX/assets/img/figure5.png" width="413"/> 
 <!--![Basic Rhythm Tips3](/assets/img/figure4.png) ![Basic Rhythm Tips4](/assets/img/figure5.png) -->
 <img src="/FireflyX/assets/img/figure6.png" width="413"/>
-<iframe width="413" height="315" src="/FireflyX/assets/music/Basic-with-Pitch.mp3" frameborder="0" allowfullscreen></iframe>
-<iframe width="413" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="413" height="315" src="/FireflyX/assets/music/Basic-with-Pitch.mp3" frameborder="0"> </iframe>
+<!--The song could also be downloaded [**Here**](/assets/music/Basic-with-Pitch.mp3).-->
+<iframe width="413" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen> </iframe>
 
 <!--![Basic Rhythm Tips5](/assets/img/figure6.png) -->
 
