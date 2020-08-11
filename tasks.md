@@ -26,9 +26,11 @@ description: This page is a guide for the tasks
  <video width="413" height="315" controls>
   <source src="/FireflyX/assets/music/Basic-with-Pitch.mp3" type="audio/mp3">
 </video> 
+<!--
  <video width="256" height="256" controls>
   <source src="/FireflyX/assets/music/bakamitaisalcyID.mp4" type="video/mp4">
 </video> 
+-->
 ## Task 3: Getting Familiar with Pitch!
 - Same as the previous task, but with the song called “Bells in the Snow” with repeating sections as seen below.
 - This task will require the child to explore more features of the application due to pitch being added and more sections of the songs can be seen.
