@@ -21,7 +21,11 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure2.png" width="413"/> <img src="/FireflyX/assets/img/figure3.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure4.png" width="413"/> <img src="/FireflyX/assets/img/figure5.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure6.png" width="413"/>
-<video width="413" height="315" src="/FireflyX/assets/music/Basic-with-Pitch.mp3"> </video>
+<iframe width="413" height="315" src="/assets/music/Basic-with-Pitch.mp3" autoplay="false"> </iframe>
+<!--<video width="320" height"240" controls>
+<source src="/assets/music/Basic-with-Pitch.mp3">
+</video>
+-->
 
 ## Task 3: Getting Familiar with Pitch!
 - Same as the previous task, but with the song called “Bells in the Snow” with repeating sections as seen below.
