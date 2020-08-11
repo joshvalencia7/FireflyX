@@ -19,8 +19,9 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure4.png" width="413"/> <img src="/FireflyX/assets/img/figure5.png" width="413"/> 
 <!--![Basic Rhythm Tips3](/assets/img/figure4.png) ![Basic Rhythm Tips4](/assets/img/figure5.png) -->
 <img src="/FireflyX/assets/img/figure6.png" width="413"/>
-<!--![Basic Rhythm Tips5](/assets/img/figure6.png) -->
+<iframe width="413" height="315" src="/FireflyX/assets/music/Basic-with-Pitch.mp3" frameborder="0" allowfullscreen></iframe>
 
+<!--![Basic Rhythm Tips5](/assets/img/figure6.png) -->
 
 ## Task 3
 - Recreate part of song with assistance (rhythms with pitch already).  For this task we will be giving the child this simple song called “Bells in the Snow” with repeating sections as seen in Figure 3, for this specific task same as Task # 2. This task will require the child to explore more features of the application due to pitch being added and more sections of the songs can be seen. We will let the child listen to the song during this task. We will also give the children a visual representation on top of the actual music sheet this time with the different pitch, a preview of this can be seen in Figure 4. The rest of the visual representation and the song can be seen and accessed on the site.
