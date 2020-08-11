@@ -112,6 +112,7 @@ a {
   background-color: $header-bg-color;
   background-image: url("../../assets/img/fireflylogo.png");
   background-repeat: no-repeat;
+  background-position: center top; 
   // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
