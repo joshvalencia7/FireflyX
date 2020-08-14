@@ -9,7 +9,13 @@ description: Designing Interactions for a Mobile Musical Learning Tool for Child
  Welcome to the website of our project FireflyX. This site shall contain relevant information regarding our project, protocol for teachers, and protocol for children.
  
 ## Research Motivation
-The project aims to identify behaviours that children exhibit when learning how to compose music using FireflyX.
+1. Teaching children a complex topic such as music is difficult.
+1. Children have a shorter attention span and require many repetitions when teaching music.
+1. Existing work has its limitations.
+
+## Call for Participants
+We are still in need of participants! If you would like to participant or know anyone who would be interested, please answer this [**form**](https://bit.ly/30VdHXD).
+
 ## Legend and Navigation
 1. About- details about the project, team members and their contact info. 
 1. Protocol for Children - details about the protocol for children. 
