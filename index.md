@@ -14,7 +14,7 @@ description: Designing Interactions for a Mobile Musical Learning Tool for Child
 1. Existing work has its limitations.
 
 ## Call for Participants
-We are still in need of participants! If you would like to participant or know anyone who would be interested, please answer this [**form**](https://bit.ly/30VdHXD).
+ We are still in need of participants! If you would like to participate or know anyone who would be interested, please answer this [**form**](https://bit.ly/30VdHXD).
 
 ## Legend and Navigation
 1. About- details about the project, team members and their contact info. 
