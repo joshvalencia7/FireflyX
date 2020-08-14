@@ -16,5 +16,7 @@ description: This page is for the Protocol for Music Experts
 ### Will the sessions be recorded?
 - The sessions will only be recorded **only** if you consent to being recorded.
 
+### How many sessions will there be?
+- 
 
 ### More details to come soon!
