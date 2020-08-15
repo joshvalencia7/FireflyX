@@ -17,6 +17,11 @@ description: This page is for the Protocol for Music Experts
 - The sessions will only be recorded **only** if you consent to being recorded.
 
 ### How many sessions will there be?
-- 
+- The number of sessions will depend on how fast the child can accomplish the tasks.
+
+### Can I assign someone to supervise my child if I am not available?
+- The parent can assign any other guardian if they are not available during the testing date.
+
+
 
 ### More details to come soon!
